@@ -61,9 +61,6 @@ The scaled schematic collision diagram maps recorded collisions to geometric con
 │   ├── crash_pattern_diagram.png   # 300 DPI master collision diagram (6771 x 4352 px)
 │   ├── supplementary_analysis.png  # Longitudinal trends, diurnal hourly curves, factors
 │   └── summary_stats.csv           # Detailed aggregated metrics table
-├── Project_2_Report.md             # Comprehensive academic technical report (Markdown)
-├── Project_2_Report.docx           # Formatted report (Microsoft Word)
-├── Project_2_Presentation.pptx     # Executive slide deck (Microsoft PowerPoint)
 ├── .gitignore                      # Git configuration (excludes large raw datasets)
 └── README.md                       # Project documentation
 ```
