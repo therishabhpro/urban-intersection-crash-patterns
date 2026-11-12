@@ -1,0 +1,40 @@
+# ==========================================
+# Git Ignore - NYC Urban Crash Pattern Project
+# ==========================================
+
+# Large raw datasets (>100MB exceeds GitHub limits)
+data/crashes.csv
+data/vehicles.csv
+export.csv
+export (1).csv
+*.csv.gz
+*.zip
+*.tar.gz
+
+# Keep processed intersection data subsets
+!data/intersection_crashes.csv
+!data/intersection_vehicles.csv
+
+# Python Virtual Environment & Dependencies
+.venv/
+venv/
+env/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyd
+
+# Operating System & IDE metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

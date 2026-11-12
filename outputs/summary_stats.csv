@@ -1,0 +1,40 @@
+Category,Attribute,Count,Percentage,Total_Injuries,Total_Fatalities,Pedestrian_Injuries,Cyclist_Injuries,Motorist_Injuries
+Collision Pattern,Other / Undetermined Collision,345,28.49,35,0,0,0,35
+Collision Pattern,Rear-End Collision,291,24.03,69,0,0,0,69
+Collision Pattern,Right-Turn / Merging Conflict,175,14.45,10,0,0,0,10
+Collision Pattern,Left-Turn / Opposing-Flow Conflict,144,11.89,46,0,0,0,46
+Collision Pattern,Sideswipe (Same Direction),118,9.74,7,0,0,0,9
+Collision Pattern,Turning / Angle Conflict,40,3.3,4,0,0,0,4
+Collision Pattern,Right-Angle (Broadside) Collision,39,3.22,16,1,0,0,16
+Collision Pattern,Single Vehicle / Fixed Object,25,2.06,8,0,0,0,8
+Collision Pattern,Pedestrian Collision,16,1.32,17,0,17,0,0
+Collision Pattern,Bicycle / Micromobility Collision,13,1.07,8,0,0,5,1
+Collision Pattern,Head-On / Opposing Collision,2,0.17,2,0,0,0,2
+Collision Pattern,Unrecorded / Undetermined,2,0.17,0,0,0,0,0
+Collision Pattern,Parked Vehicle Incident,1,0.08,0,0,0,0,0
+Severity Overview,Total Recorded Crashes,1211,100.0,,,,,
+Severity Overview,Property Damage Only (PDO) Crashes,1056,87.2,,,,,
+Severity Overview,Injury-Incurring Crashes,154,12.72,,,,,
+Severity Overview,Fatal Crashes,1,0.08,,,,,
+Severity Overview,Total Persons Injured,222,,,,,,
+Severity Overview,Total Persons Killed,1,,,,,,
+Severity Overview,Pedestrians Injured,17,,,,,,
+Severity Overview,Cyclists Injured,5,,,,,,
+Severity Overview,Motorists Injured,200,,,,,,
+Vehicle Classification,Other / Unspecified,812,33.39,,,,,
+Vehicle Classification,Passenger Sedan,607,24.96,,,,,
+Vehicle Classification,SUV / Station Wagon,553,22.74,,,,,
+Vehicle Classification,Commercial Truck / Delivery Van,312,12.83,,,,,
+Vehicle Classification,Taxi / For-Hire Vehicle,102,4.19,,,,,
+Vehicle Classification,Transit / School Bus,28,1.15,,,,,
+Vehicle Classification,Motorcycle / Micromobility,18,0.74,,,,,
+Top Contributing Factors,Unspecified,1914,53.12,,,,,
+Top Contributing Factors,Driver Inattention/Distraction,222,6.16,,,,,
+Top Contributing Factors,Passing or Lane Usage Improper,173,4.8,,,,,
+Top Contributing Factors,Following Too Closely,162,4.5,,,,,
+Top Contributing Factors,Turning Improperly,131,3.64,,,,,
+Top Contributing Factors,Passing Too Closely,115,3.19,,,,,
+Top Contributing Factors,Lost Consciousness,109,3.03,,,,,
+Top Contributing Factors,Unsafe Lane Changing,108,3.0,,,,,
+Top Contributing Factors,Fatigued/Drowsy,95,2.64,,,,,
+Top Contributing Factors,Failure to Yield Right-of-Way,91,2.53,,,,,
