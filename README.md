@@ -107,4 +107,3 @@ python scripts/generate_diagram.py
 ## 👤 Author
 **Rishabh Prajapat**  
 Coursework: Safety Engineering — Project 2  
-Department of Civil / Transportation Engineering
